@@ -1,0 +1,9 @@
+Python libraries :
+
+tensorflow==2.x.x
+numpy
+pandas
+opencv-python
+matplotlib
+pillow
+streamlit
